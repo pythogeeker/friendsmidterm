@@ -1,4 +1,4 @@
 # friendsmidterm
-![alt text](https://drive.google.com/file/d/1iZU4SwPokNK8jvO4DqaNDazTHy_aJJ7L/view?usp=sharing)
+![app1](Screenshot (13).png)
 
-![alt text](https://drive.google.com/file/d/171sbDzeYSICdLb1X0-KXSPrxA_YbAgzD/view?usp=sharing)
+![app2](https://drive.google.com/file/d/171sbDzeYSICdLb1X0-KXSPrxA_YbAgzD/view?usp=sharing)
